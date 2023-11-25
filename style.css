@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif; 
+   
+}
+.logo{
+    border-radius: 25%;
+}
+.logo1{
+    float: left;
+}
+.nav{
+    padding-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding-left:30px ;
+}
+h1{
+    padding-left: 18px;
+}
+header{
+    border-bottom: 3px solid hsl(310, 100%, 87%);
+}
+a{
+    text-decoration: none;
+} 
+body{
+
+font-size: 15px;
+
+}
+.day{
+float: left; 
+
+}
+
+
+.circle{
+     width: 320px;
+    height: 100px;
+    background-color: #4811AE;
+   border-radius: 50%;
+   color: #ab7aff;
+   margin-left: 270px;
+   margin-top: 50px;
+}
+h1{
+    font-size: 20px;
+    margin-left: 50px;
+margin-bottom: 30px;
+}
+.fotto{
+
+display: flex;
+flex-wrap:wrap;
+justify-content: space-between;
+margin-left: 18px;
+padding-top: 10px;
+}
+.foto{
+justify-content: space-between;
+text-shadow: 3px 3px 3px;
+color: hsl(310, 100%, 74%);
+}
+img:hover{
+ border: 8px dotted hsl(310, 100%, 87%);
+
+}
+h1{
+    font-size: 25px;
+    margin-left: 50px;
+margin-bottom: 30px;
+text-shadow: 5px 5px 5px hsl(310, 100%, 87%) ;
+
+}
+a:hover{
+    background-color:rgb(109, 82, 135);
+    color: white;
+    transition: 2s;
+
+}
+h1:hover{
+    transform:scale(3);
+    transition: 5s;
+    color: blueviolet;
+    opacity: 0.6;
+}
+.ions{
+    width:50px;
+    height: 50px;
+}
+footer p{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    background-image:linear-gradient(pink,white,blueviolet);
+}
+.icons:hover{
+    border: 0px solid blue;
+}
+.partner{
+       display: flex;
+    justify-content: space-between;
+}
+p:hover{
+    transform:scale(2);
+    transition: 3s;
+
+}
