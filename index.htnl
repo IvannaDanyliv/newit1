@@ -1,0 +1,38 @@
+<html>
+    <head>
+       <title> NEW IT </title>
+<link real=  "stylesheet" href=  "style.css">
+    </head>
+<body>
+    <header>
+       <div class="logo1"><img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfEEkvMTMRNPRrK9PjGBeHPKVJLkanfL8E-PVM0Gq9Jt9iHYwg3OygcQR5jMxxX8ARGA&usqp=CAU" width="140px" height="120px" >
+         <h1>NEW IT</h1>
+       </div>
+       <div class="nav">
+    <a href=""> Ціна </a> 
+     <a href=""> Курси </a>
+      <a href=""> Про нас </a>
+        </div>
+    </header>
+    <main>
+      <div class="fotto">
+      <article class="foto"><img src="https://osvitoria.media/wp-content/uploads/2021/06/VSL-stary-lev-pro-vchyteliv.png"width="250" height="230"> <br> <p> Python</p> <a class="" href="">Записатися</a> </article>
+      <article class="foto"><img src="https://zn.ua/img/article/5284/22_main.jpg"width="250" height="230"> <br> <p>JavaScript</p> <a class="" href="">Записатися</a> </article>
+         
+         <article class="foto"><img src="https://avatars.dzeninfra.ru/get-zen_doc/3533726/pub_5f4fc07250251b5303b721a7_5f4fc0af50251b5303b7846b/scale_1200"width="250" height="230"> <br> <p>C++</p> <a class="" href="">Записатися</a> </article>
+               <article class="foto"><img src="https://s3-eu-central-1.amazonaws.com/news.pr-cy.ru/535312/5407.png"width="250" height="230"> <br> <p> PHP</p> <a class="" href="">Записатися</a> </article>
+      </div>
+    </main>
+    <footer>
+     <p><b> ПАРТНЕРИ</b> </p>
+     <article class="partner">
+     <img class="icons" src="https://thumb.tildacdn.com/tild3135-3962-4637-a630-623161356236/-/resize/360x/-/format/webp/Group_1.png">
+
+<img class="icons" src="https://thumb.tildacdn.com/tild6638-3937-4565-a636-316439656436/-/resize/360x/-/format/webp/0011d5caaabc3d1cc1ff.png">
+<img class="icons" src="https://thumb.tildacdn.com/tild3365-3439-4366-b038-313937393733/-/resize/360x/-/format/webp/_logo_students.png">
+<img class="icons" src="https://thumb.tildacdn.com/tild3063-3038-4134-a462-316237393765/-/resize/360x/-/format/webp/Group_3.png">
+<img class="icons" src="https://thumb.tildacdn.com/tild6435-3434-4438-b438-633533316235/-/resize/360x/-/format/webp/Group_2.png">
+     </article>
+    </footer>
+</body>
+</html>
